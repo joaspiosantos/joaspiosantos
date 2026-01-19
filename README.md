@@ -2,7 +2,7 @@
 
 <br/>
 
-_Estou cursando Analise e Desenvolvimento de Sistemas no 3º semestre, com duração total de 5 semestres e previsão de formação para agosto de 2026._
+_Estou cursando Analise e Desenvolvimento de Sistemas no 5º semestre, com duração total de 5 semestres e previsão de formação para agosto de 2026._
 
 <br/>
 
