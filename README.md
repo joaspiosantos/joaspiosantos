@@ -34,6 +34,11 @@ _Estou cursando Analise e Desenvolvimento de Sistemas no 5Âº semestre, com duraÃ
     <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-F29111?style=for-the-badge&logo=mysql&logoColor=white" />
     <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
     <img align="center" alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+    <img align="center" alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+    <img align="center" alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+    <img align="center" alt="Zabbix" src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" />
+    <img align="center" alt="Grafana" src="https://img.shields.io/badge/Grafana-F26C24?style=for-the-badge&logo=grafana&logoColor=white" />
+    <img align="center" alt="Shell" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </div>
 
 ---
@@ -41,12 +46,8 @@ _Estou cursando Analise e Desenvolvimento de Sistemas no 5Âº semestre, com duraÃ
 > ðŸ“š Tecnologias que possuo conhecimentos:
 
 <div style="display: inline_block">
-    <img align="center" alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
     <img align="center" alt="Apache" src="https://img.shields.io/badge/Apache-CA2136?style=for-the-badge&logo=apache&logoColor=white" />
     <img align="center" alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D33833?style=for-the-badge&logo=jenkins&logoColor=white" />
-    <img align="center" alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-    <img align="center" alt="Zabbix" src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" />
-    <img align="center" alt="Grafana" src="https://img.shields.io/badge/Grafana-F26C24?style=for-the-badge&logo=grafana&logoColor=white" />
     <br/>
     <br/>
     <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
@@ -55,7 +56,7 @@ _Estou cursando Analise e Desenvolvimento de Sistemas no 5Âº semestre, com duraÃ
     <img align="center" alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
     <img align="center" alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
     <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-    <img align="center" alt="Shell" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+    <img align="center" alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 <div />
 
 ---
@@ -64,7 +65,6 @@ _Estou cursando Analise e Desenvolvimento de Sistemas no 5Âº semestre, com duraÃ
 
 <div style="display: inline_block">
     <img align="center" alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-    <img align="center" alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
     <img align="center" alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
     <img align="center" alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
     <img align="center" alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
